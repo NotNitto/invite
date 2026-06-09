@@ -30,6 +30,7 @@ function App() {
           paddingBottom: "25vh",
         }}
         alt="pic1"
+        title="Приглашение"
       />
       <h1>Гости</h1>
 
