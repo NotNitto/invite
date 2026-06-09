@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/invite/static/css/main.1ba39846.css",
-    "main.js": "/invite/static/js/main.9094417c.js",
+    "main.css": "/invite/static/css/main.3b0214c2.css",
+    "main.js": "/invite/static/js/main.95990795.js",
     "static/media/pic1.png": "/invite/static/media/pic1.061c41ab44223563da6d.png",
     "static/media/slide4.jpg": "/invite/static/media/slide4.e9f22829bea13b41285d.jpg",
     "static/media/Oswald-Bold.ttf": "/invite/static/media/Oswald-Bold.35f5cd6d606607dd9214.ttf",
@@ -11,11 +11,11 @@
     "static/media/slide3.jpg": "/invite/static/media/slide3.8f2e244583fc76d11f94.jpg",
     "static/media/slide2.jpg": "/invite/static/media/slide2.3533bcc59f404b1e387e.jpg",
     "index.html": "/invite/index.html",
-    "main.1ba39846.css.map": "/invite/static/css/main.1ba39846.css.map",
-    "main.9094417c.js.map": "/invite/static/js/main.9094417c.js.map"
+    "main.3b0214c2.css.map": "/invite/static/css/main.3b0214c2.css.map",
+    "main.95990795.js.map": "/invite/static/js/main.95990795.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ba39846.css",
-    "static/js/main.9094417c.js"
+    "static/css/main.3b0214c2.css",
+    "static/js/main.95990795.js"
   ]
 }
