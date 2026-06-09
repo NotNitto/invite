@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-name/static/css/main.0863ec8e.css",
+    "main.js": "/project-name/static/js/main.4a762b4d.js",
+    "static/media/pic1.png": "/project-name/static/media/pic1.061c41ab44223563da6d.png",
+    "static/media/slide4.jpg": "/project-name/static/media/slide4.e9f22829bea13b41285d.jpg",
+    "static/media/Oswald-Bold.ttf": "/project-name/static/media/Oswald-Bold.35f5cd6d606607dd9214.ttf",
+    "static/media/Oswald-Light.ttf": "/project-name/static/media/Oswald-Light.115d7e578f716021d698.ttf",
+    "static/media/Oswald-Regular.ttf": "/project-name/static/media/Oswald-Regular.2382cc8b7db04633e754.ttf",
+    "static/media/slide1.jpg": "/project-name/static/media/slide1.ce764526cfd16460197e.jpg",
+    "static/media/slide3.jpg": "/project-name/static/media/slide3.8f2e244583fc76d11f94.jpg",
+    "static/media/slide2.jpg": "/project-name/static/media/slide2.3533bcc59f404b1e387e.jpg",
+    "index.html": "/project-name/index.html",
+    "main.0863ec8e.css.map": "/project-name/static/css/main.0863ec8e.css.map",
+    "main.4a762b4d.js.map": "/project-name/static/js/main.4a762b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0863ec8e.css",
+    "static/js/main.4a762b4d.js"
+  ]
+}
