@@ -1,0 +1,54 @@
+html {font-family: "Oswald", Arial, Helvetica, sans-serif;}
+
+h1 {color: #F3E11B; font-weight:500; font-size: 72px; margin: 10px 0; text-align: center;}
+h2 {color: #F3E11B; font-weight:500; font-size: 32px; text-align: center; animation:
+    shake1 2s cubic-bezier(0.45, 0.05, 0.55, 0.95) 0s infinite alternate}
+
+.swiper, .swiper-slide {
+    padding: 0px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 95%;
+    height: 75vh;
+    min-width: 200px;
+    min-height: 200px;
+}
+
+@keyframes shake1 {
+    from {transform: rotate(-1deg) scale(1.05) } to {transform: rotate(1deg) scale(0.95) }
+}
+@keyframes shake2 {
+    0% {transform: rotate(-3deg) scale(1);}
+        25% {transform: rotate(-2deg) scale(0.95);}
+        50% {transform: rotate(4deg)scale(1.01);}
+        75% {transform: rotate(-1deg) scale(1.05);}
+        100% {transform: rotate(-3deg) scale(1);}
+    }
+
+@font-face {
+    font-family: "Oswald";
+    src: local("Oswald Light"),
+    local("Oswald-Light"),
+    url("./assets/fonts/Oswald-Light.ttf") format("truetype");
+    font-weight: lighter;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Oswald";
+    src: local("Oswald Regular"),
+    local("Oswald-Regular"),
+    url("./assets/fonts/Oswald-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Oswald";
+    src: local("Oswald Bold"),
+    local("Oswald-Bold"),
+    url("./assets/fonts/Oswald-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-weight: 700;
+    font-style: normal;
+}
